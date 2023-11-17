@@ -9,7 +9,7 @@ Magento ver. 2.4.6 - XSLT Server Side Injection
 - **Version:** 2.4.6
 - **Tested on:** 2.4.6
 
-<img src="https://raw.githubusercontent.com/capture0x/Magento-ver.-2.4.6/main/magento.png" alt="Magento Image" width="700">
+<img src="https://raw.githubusercontent.com/capture0x/Magento-ver.-2.4.6/main/magento.png" alt="Magento Image" width="1000">
 
 ## POC
 
