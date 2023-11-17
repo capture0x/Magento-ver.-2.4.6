@@ -6,7 +6,7 @@
 - **Software Link:** [Magento 2.4.6-p3](https://github.com/magento/magento2/archive/refs/tags/2.4.6-p3.zip)
 - **Version:** 2.4.6
 - **Tested on:** 2.4.6
-
+<img src="https://raw.githubusercontent.com/capture0x/Magento-ver.-2.4.6/main/magento.png" alt="Magento Image" width="1000">
 ## POC
 
 1. Enter with admin credentials to this URL: [https://magento2demo.firebearstudio.com/](https://magento2demo.firebearstudio.com/)
