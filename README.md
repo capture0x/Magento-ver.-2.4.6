@@ -11,6 +11,7 @@ Magento ver. 2.4.6 - XSLT Server Side Injection
 
 <img src="https://raw.githubusercontent.com/capture0x/Magento-ver.-2.4.6/main/magento.png" alt="Magento Image" width="1000">
 
+<img src="https://raw.githubusercontent.com/capture0x/Magento-ver.-2.4.6/main/3.png" alt="Magento Image" width="1000">
 ## POC
 
 1. Enter with admin credentials to this URL: [https://magento2demo.firebearstudio.com/](https://magento2demo.firebearstudio.com/)
