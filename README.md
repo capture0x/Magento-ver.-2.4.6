@@ -15,8 +15,9 @@ Magento ver. 2.4.6 - XSLT Server Side Injection
 
 1. Enter with admin credentials to this URL: [https://magento2demo.firebearstudio.com/](https://magento2demo.firebearstudio.com/)
 2. Click `SYSTEM > Import Jobs > Entity Type Widget > click edit`
-3. Choose  Import Source is File
-4. Click `XSLT Configuration` and write this payload:
+3. Choose  Import File Type > XML > Import Source is File
+4. Upload any xml file
+5. Click `XSLT Configuration` and write this payload:
 
    ```xml
    <?xml version="1.0" encoding="utf-8"?>
