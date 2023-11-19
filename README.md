@@ -2,7 +2,7 @@
 
 - **Date:** 2023-11-17
 - **Exploit Author:** tmrswrr
-- **Vendor Homepage:** [Adobe](https://commercemarketplace.adobe.com/)
+- **Vendor Homepage:** [FireBear Studio](https://commercemarketplace.adobe.com/)
 - **Software Link:** [Adobe Improved Import & Export ](https://commercemarketplace.adobe.com/firebear-importexport.html)
 - **Version:**  FireBear Improved Import & Export ver. 3.8.6
 
