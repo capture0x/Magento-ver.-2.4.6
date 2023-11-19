@@ -1,10 +1,10 @@
 # Magento-ver.-2.4.6
 Magento ver. 2.4.6 - XSLT Server Side Injection
-# Exploit Title: Magento ver. 2.4.6 - XSLT Server Side Injection
+# Exploit Title: FireBear Improved Import & Export ver. 3.8.6 for Magento 2.4.6  - XSLT Server Side Injection Command Execution
 
 - **Date:** 2023-11-17
 - **Exploit Author:** tmrswrr
-- **Vendor Homepage:** [https://magento2demo.firebearstudio.com/](https://magento2demo.firebearstudio.com/)
+- **Vendor Homepage:** [https://commercemarketplace.adobe.com/firebear-importexport.html](https://commercemarketplace.adobe.com/firebear-importexport.html)
 - **Software Link:** [Magento 2.4.6-p3](https://github.com/magento/magento2/archive/refs/tags/2.4.6-p3.zip)
 - **Version:** 2.4.6
 - **Tested on:** 2.4.6
