@@ -1,9 +1,9 @@
-# Exploit Title: FireBear Improved Import & Export ver. 3.8.6 for Magento 2.4.6  - XSLT Server Side Injection Command Execution
+# Exploit Title: FireBear Improved Import & Export ver. 3.8.6 for Magento 2.4.6  - XSLT Server Side Injection
 
 - **Date:** 2023-11-17
 - **Exploit Author:** tmrswrr
 - **Vendor Homepage:** [Adobe](https://commercemarketplace.adobe.com/)
-- **Software Link:** [FireBear Improved Import & Export ver. 3.8.6 for Magento 2.4.6](https://commercemarketplace.adobe.com/firebear-importexport.html)
+- **Software Link:** [Adobe Improved Import & Export ](https://commercemarketplace.adobe.com/firebear-importexport.html)
 - **Version:**  FireBear Improved Import & Export ver. 3.8.6
 
 <img src="https://raw.githubusercontent.com/capture0x/Magento-ver.-2.4.6/main/magento.png" alt="Magento Image" width="1000">
