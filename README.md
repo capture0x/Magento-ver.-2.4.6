@@ -4,8 +4,7 @@
 - **Exploit Author:** tmrswrr
 - **Vendor Homepage:** [Adobe](https://commercemarketplace.adobe.com/)
 - **Software Link:** [FireBear Improved Import & Export ver. 3.8.6 for Magento 2.4.6](https://commercemarketplace.adobe.com/firebear-importexport.html)
-- **Version:** 2.4.6
-- **Tested on:** 2.4.6
+- **Version:**  FireBear Improved Import & Export ver. 3.8.6
 
 <img src="https://raw.githubusercontent.com/capture0x/Magento-ver.-2.4.6/main/magento.png" alt="Magento Image" width="1000">
 
