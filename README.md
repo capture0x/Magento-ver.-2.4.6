@@ -4,8 +4,8 @@ Magento ver. 2.4.6 - XSLT Server Side Injection
 
 - **Date:** 2023-11-17
 - **Exploit Author:** tmrswrr
-- **Vendor Homepage:** [https://commercemarketplace.adobe.com/firebear-importexport.html](https://commercemarketplace.adobe.com/firebear-importexport.html)
-- **Software Link:** [Magento 2.4.6-p3](https://github.com/magento/magento2/archive/refs/tags/2.4.6-p3.zip)
+- **Vendor Homepage:** [Adobe](https://commercemarketplace.adobe.com/)
+- **Software Link:** [FireBear Improved Import & Export ver. 3.8.6 for Magento 2.4.6](https://commercemarketplace.adobe.com/firebear-importexport.html)
 - **Version:** 2.4.6
 - **Tested on:** 2.4.6
 
